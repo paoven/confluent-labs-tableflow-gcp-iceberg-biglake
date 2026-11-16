@@ -1,0 +1,12 @@
+# The GCP Project ID
+customer_project_id = "temp-gear-123456"
+
+# The GCP region of the Kafka cluster and the GCS bucket
+region = "us-central1"
+
+# An existing, empty regional GCS bucket in the same region
+gcs_bucket_name = "tableflow-quickstart-abc123"
+
+# Optional prefix for the display names of the Confluent Cloud resources
+resource_prefix = "myname-"
+
